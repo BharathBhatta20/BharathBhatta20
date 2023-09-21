@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BharathBhatta20
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React, SQL and MySQL.
-- 💞️ I’m looking to collaborate on any Angular and React Projects
+- 🌱 I’m currently mastering React JS and problem sloving skills.
+- 💞️ I’m looking to collaborate on any React Projects
 - 📫 Available at Bharathmbhatta11@gmail.com
 
 <!---
