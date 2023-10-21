@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BharathBhatta20
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently mastering React JS and problem sloving skills.
-- 💞️ I’m looking to collaborate on any React Projects
-- 📫 Available at Bharathmbhatta11@gmail.com
+- 👋 Hi, I’m Bharath Manjunath
+- 👀 I’m interested in Front End Development, Web Application development and Native application development.
+- 🤹 Posses strong 5+ years of professional experience and personal concept projects.
+- 🌱 Skilled with JavaScript, React JS, Redux Angular JS, Angular 8, Node JS, Tailwind CSS, Bootstrap, Zustand and many other Web development related Library and Tools
+- 📫 Available at Bharathmbhatta11@gmail.com for any collabrations.
 
 <!---
 BharathBhatta20/BharathBhatta20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
